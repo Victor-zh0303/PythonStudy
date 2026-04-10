@@ -7,7 +7,7 @@ if 18 <= age <= 45:
     print('✅您的年龄复合比赛要求！')
     if has_report=='是':
         print('✅您已经提交体检报告！')
-        print('您可以参加比赛！')
+        print('✅您可以参加比赛！')
         if level==1:
             print(f'😊尊敬的{level}级会员，比赛结束后，您可以领取纪念T恤👕一件!')
         elif level==2:

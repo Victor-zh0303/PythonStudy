@@ -36,3 +36,4 @@ def test3(a, b, *args, c='你好', ** kwargs):
 
 # 调用函数
 test3('张三', '男', '抽烟', '喝酒', c='hhhhhhh', age=18, height=172)
+
